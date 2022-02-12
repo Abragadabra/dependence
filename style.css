@@ -1,0 +1,193 @@
+body {
+	 margin: 0;
+	 padding: 0;
+	 width: 100%;
+	 height: 100%;
+	 font-family: 'Balsamiq Sans', cursive;
+}
+
+header {
+  margin: 0;
+  padding: 0;
+	 text-align: center;
+}
+
+h1 {
+	 margin: 0;
+	 padding-left: 10px;
+		padding-right: 10px;
+}
+
+h1.h1 {
+		background: #6cc2d9;
+		color: #2f373c;
+}
+
+img.h1 {
+  	width: 100%;
+  	margin: 0;
+}
+
+p.h1 {
+		background: #6cc2d9;
+		margin-top: -8px;
+		color: #FFFFFF;
+}
+
+p {
+		margin-bottom: 0;
+}
+
+h1, h2, p {
+  text-align: center;
+  font-size: 7vw;
+}
+
+h2 {
+   font-size: 6vw;
+		padding-top: 10px;
+		padding-left: 10px;
+		padding-right: 10px;
+}
+
+p {
+	 font-size: 4vw;
+	 font-weight: bold;
+	 padding: 10px 10px;
+}
+
+div {
+   width: 100%;
+   height: 110%;
+   border-top-left-radius: 16px;
+		border-top-right-radius: 16px;
+}
+
+div.div0 {
+		background: #6cc2d9;
+}
+
+div.div1 {
+		background: #FF5713;
+}
+
+h2.div1 {
+   color: #FFFFFF;
+}
+
+p.div1 {
+		color: #212121;
+}
+
+div.div2 {
+   background: #212121;
+}
+
+h2.div2 {
+   color: #FF5713;
+}
+
+p.div2 {
+		color: #FFFFFF;
+}
+
+div.div3 {
+		background: #FFFFFF;
+}
+
+h2.div3 {
+   color: #212121;
+}
+
+p.div3 {
+		color: #FF5713;
+}
+
+div.div4 {
+   background: #FF5713;
+}
+
+h2.div4 {
+   color: #FFFFFF;
+}
+
+p.div4 {
+		color: #212121;
+}
+
+div.div5 {
+   background: #212121;
+}
+
+h2.div5 {
+   color: #FF5713;
+}
+
+p.div5 {
+		color: #FFFFFF;
+}
+
+div.div6 {
+		background: #FFFFFF;
+}
+
+h2.div6 {
+   color: #212121;
+}
+
+p.div6 {
+		color: #FF5713;
+}
+
+div.div7 {
+   background: #FF5713;
+}
+
+h2.div7 {
+   color: #FFFFFF;
+}
+
+p.div7 {
+		color: #212121;
+}
+
+div.div8 {
+   background: #212121;
+}
+
+h2.div8 {
+   color: #FF5713;
+}
+
+p.div8 {
+		color: #FFFFFF;
+}
+
+div.div9 {
+		background: #FFFFFF;
+		margin-bottom: 16px;
+}
+
+h2.div9 {
+   color: #212121;
+}
+
+p.div9 {
+		color: #FF5713;
+		margin-bottom: 60px;
+}
+
+.stat {
+		background: #FFFFFF;
+		color: #2f373c;
+}
+
+.stat1 {
+		color: #212121;
+}
+
+.ps {
+		color: #FF5713;
+		padding: 0;
+		margin: 0, 10px, 0, 0;
+}
