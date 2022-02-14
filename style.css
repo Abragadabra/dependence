@@ -178,7 +178,7 @@ p.div9 {
 
 .stat {
 		background: #FFFFFF;
-		color: #2f373c;
+		color: ;
 }
 
 .stat1 {
@@ -195,13 +195,17 @@ p.div9 {
 		width: 42px;
 		height: 24px;
 		margin-top: 30px;
+		margin-bottom: 5px;
 		margin-left: 85%;
+		position: absolute;
 }
 
 .arrow2 {
 		width: 42px;
 		height: 24px;
 		margin-top: 30px;
+		margin-bottom: 5px;
+		position: absolute;
 }
 
 a.ssylka:active, 
@@ -210,4 +214,25 @@ a.ssylka:hover,
 a.ssylka {
   text-decoration: none;
   color: #212121;
+}
+
+h1.info {
+	 color: #2f373c;
+}
+
+p.info {
+		color: #212121;
+}
+
+h3.info {
+		color: #FF5713;
+		text-align: center;
+}
+
+span {
+   color: #FF5713;
+}
+
+.ssylky {
+		display: flex;
 }
